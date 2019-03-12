@@ -31,15 +31,15 @@ Q 46.65 34.5 48.55 34.5 50.45 34.5 51.8 32.9 53.1 31.3 53.1 29.05 53.1 26.8 51.7
 <use xlink:href="#Layer0_0_FILL"/>
 </g>
 
-<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<g transform="matrix( 0.9585418701171875, 0, 0, 1, 1.5,-1) ">
 <use xlink:href="#Layer0_1_FILL"/>
 </g>
 
-<g transform="matrix( 0.5625, 0, 0, 0.7018280029296875, 0,-7.15) ">
+<g transform="matrix( 0.5625, 0, 0, 0.7688751220703125, 0,-12.55) ">
 <use xlink:href="#Layer0_2_MEMBER_0_FILL"/>
 </g>
 
-<g transform="matrix( 1, 0, 0, 1.247711181640625, 0,-7.15) ">
+<g transform="matrix( 1, 0, 0, 1.366912841796875, 0,-12.55) ">
 <use xlink:href="#Layer0_2_MEMBER_1_FILL"/>
 </g>
 </g>
