@@ -1,0 +1,56 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="72px" height="72px" viewBox="0 0 72 72">
+<defs>
+<g id="Layer1_0_FILL">
+<path fill="#FCC21B" stroke="none" d="
+M 36 5.45
+Q 13.65 5.45 4.9 26.05 0.1 37.3 0.1 52.5 0.1 58.35 10.65 62.45 21.1 66.6 36 66.6 50.85 66.6 61.35 62.45 71.85 58.35 71.85 52.5 71.85 37.3 67.1 26.05 58.3 5.45 36 5.45 Z"/>
+</g>
+
+<g id="Layer1_2_MEMBER_0_FILL">
+<path fill="#2F2F2F" stroke="none" d="
+M 47.8 44.7
+Q 45.35 41.85 42 41.9 38.65 41.95 36.25 44.8 33.9 47.7 33.95 51.7 34 55.7 36.4 58.55 38.85 61.35 42.2 61.3 45.55 61.25 47.9 58.4 50.25 55.55 50.25 51.55 50.2 47.5 47.8 44.7 Z"/>
+</g>
+
+<g id="Layer1_2_MEMBER_1_FILL">
+<path fill="#2F2F2F" stroke="none" d="
+M 45.3 32.9
+Q 46.65 34.5 48.55 34.5 50.45 34.5 51.8 32.9 53.1 31.3 53.1 29.05 53.1 26.8 51.75 25.15 50.4 23.55 48.5 23.6 46.65 23.6 45.3 25.2 43.95 26.8 43.95 29.05 43.95 31.3 45.3 32.9 Z"/>
+</g>
+
+<g id="Layer0_0_FILL">
+<path fill="#ED6C30" stroke="none" d="
+M 75.2 75.55
+Q 71.1 69.1 64 69.1 56.85 69.1 52.8 75.55 49.2 81.2 49.2 89.3 49.2 96.6 53 100.45 56.8 104.3 64 104.3 71.15 104.3 74.95 100.45 78.75 96.6 78.75 89.3 78.75 81.2 75.2 75.55 Z"/>
+</g>
+
+<path id="Layer1_1_1_STROKES" stroke="#2F2F2F" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" fill="none" d="
+M 47.4 19.95
+Q 52.95 19.65 56.3 25.45
+M 24.65 19.95
+Q 19.1 19.65 15.75 25.45"/>
+</defs>
+
+<g id="Layer_1">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#Layer1_0_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 0.694122314453125, 0,3.95) ">
+<use xlink:href="#Layer1_1_1_STROKES"/>
+</g>
+
+<g transform="matrix( 0.5625, 0, 0, 0.5625, -0.05,-0.25) ">
+<use xlink:href="#Layer1_2_MEMBER_0_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, -0.05,-0.25) ">
+<use xlink:href="#Layer1_2_MEMBER_1_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 0.4729766845703125, 0, 0, 0.4729766845703125, 5.75,8) ">
+<use xlink:href="#Layer0_0_FILL"/>
+</g>
+</svg>
