@@ -1,0 +1,96 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="72px" height="72px" viewBox="0 0 72 72">
+<defs>
+<g id="Layer0_0_FILL">
+<path fill="#FCC21B" stroke="none" d="
+M 127.8 93.35
+Q 127.8 66.4 119.25 46.3 103.65 9.65 64 9.65 24.35 9.65 8.75 46.3 0.2 66.4 0.2 93.35 0.2 103.7 18.9 111.05 37.6 118.35 64 118.35 90.35 118.35 109.1 111.05 127.8 103.7 127.8 93.35 Z"/>
+</g>
+
+<g id="Layer0_1_MEMBER_0_FILL">
+<path fill="#2F2F2F" stroke="none" d="
+M 27.3 32.9
+Q 27.3 30.6 25.95 29 24.65 27.4 22.75 27.4 20.85 27.4 19.55 29 18.2 30.6 18.2 32.9 18.2 35.15 19.55 36.75 20.9 38.35 22.75 38.35 24.65 38.35 25.95 36.75 27.3 35.15 27.3 32.9 Z"/>
+</g>
+
+<g id="Layer0_1_MEMBER_1_FILL">
+<path fill="#2F2F2F" stroke="none" d="
+M 46.35 29
+Q 45 30.6 45 32.9 45 35.15 46.35 36.75 47.7 38.35 49.55 38.35 51.45 38.35 52.75 36.75 54.1 35.15 54.1 32.9 54.1 30.6 52.75 29 51.45 27.4 49.55 27.4 47.65 27.4 46.35 29 Z"/>
+</g>
+
+<g id="Layer0_2_FILL">
+<path fill="#FFFFFF" stroke="none" d="
+M 57.4 12.95
+Q 56.05 11.65 53.6 10.15 48.7 7.15 43.3 6.2 35.7 4.85 27 7.05 9.55 11.45 3.95 29.25
+L 3 33
+Q 1.95 37.9 1.15 43.9 8.15 37.9 18.65 31 39.7 17.25 57.4 12.95 Z"/>
+</g>
+
+<g id="Layer0_3_FILL">
+<path fill="#FFFFFF" stroke="none" d="
+M 55.85 19.4
+Q 60.6 20.05 64.15 20.8 61.9 16.85 57.55 13.15
+L 53.7 10.25
+Q 39.4 6.85 23.2 12.15 15.1 14.8 9.85 18.15 7.75 20.35 6.25 23.3 5.5 24.8 5.2 25.85 13.3 23.5 19.2 22.05 30.05 19.4 39.95 18.55 46.25 18.05 55.85 19.4 Z"/>
+</g>
+
+<path id="Layer0_1_1_STROKES" stroke="#2F2F2F" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" fill="none" d="
+M 54.8 21.75
+L 53.65 21.65
+Q 49.65 21.3 48.15 19.8 47 18.4 46.5 17.35
+M 17.25 21.75
+Q 22.15 21.55 23.9 19.8 25.05 18.4 25.55 17.35"/>
+
+<path id="Layer0_2_1_STROKES" stroke="#78909C" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" fill="none" d="
+M 1.15 43.9
+Q 8.15 37.9 18.65 31 39.7 17.25 57.4 12.95 56.05 11.65 53.6 10.15 48.7 7.15 43.3 6.2 35.7 4.85 27 7.05 9.55 11.45 3.95 29.25
+L 3 33
+Q 1.95 37.9 1.15 43.9 Z"/>
+
+<path id="Layer0_3_1_STROKES" stroke="#78909C" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" fill="none" d="
+M 9.85 18.15
+Q 15.1 14.8 23.2 12.15 39.4 6.85 53.7 10.25
+L 57.55 13.15
+Q 61.9 16.85 64.15 20.8 60.6 20.05 55.85 19.4 46.25 18.05 39.95 18.55 30.05 19.4 19.2 22.05 13.3 23.5 5.2 25.85 5.5 24.8 6.25 23.3 7.75 20.35 9.85 18.15 Z"/>
+
+<path id="Layer0_4_1_STROKES" stroke="#2F2F2F" stroke-width="3" stroke-linejoin="miter" stroke-linecap="round" stroke-miterlimit="10" fill="none" d="
+M 27.55 47.8
+L 29.45 47.15
+Q 31.85 46.45 34.35 46.3 42.5 45.9 48.95 51.2"/>
+</defs>
+
+<g id="Layer_1">
+<g transform="matrix( 0.5625, 0, 0, 0.5625, 0,0) ">
+<use xlink:href="#Layer0_0_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,3) ">
+<use xlink:href="#Layer0_1_1_STROKES"/>
+</g>
+
+<g transform="matrix( 1.06689453125, 0, 0, 1.06689453125, 0.2,-2.9) ">
+<use xlink:href="#Layer0_1_MEMBER_0_FILL"/>
+</g>
+
+<g transform="matrix( 1.06689453125, 0, 0, 1.06689453125, -5.2,-2.9) ">
+<use xlink:href="#Layer0_1_MEMBER_1_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#Layer0_2_FILL"/>
+
+<use xlink:href="#Layer0_2_1_STROKES"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#Layer0_3_FILL"/>
+
+<use xlink:href="#Layer0_3_1_STROKES"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,3) ">
+<use xlink:href="#Layer0_4_1_STROKES"/>
+</g>
+</g>
+</svg>
