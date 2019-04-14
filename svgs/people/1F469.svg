@@ -45,10 +45,10 @@ Q 86.15 70.3 83.8 70.3 81.4 70.3 79.75 72.35 78.05 74.35 78.05 77.2 78.05 80.05 
 
 <g id="Layer0_0_MEMBER_4_MEMBER_2_FILL">
 <path fill="#513F35" stroke="none" d="
-M 77.8 101.2
-Q 77.45 100.55 76.35 100.55
+M 63.95 108.75
+Q 68.85 108.75 72.95 106.6 76.15 104.9 77.45 102.9 78.15 101.85 77.8 101.2 77.45 100.55 76.35 100.55
 L 51.6 100.55
-Q 50.5 100.55 50.15 101.2 49.8 101.85 50.5 102.9 51.8 104.9 55 106.6 59.1 108.75 63.95 108.75 68.85 108.75 72.95 106.6 76.15 104.9 77.45 102.9 78.15 101.85 77.8 101.2 Z"/>
+Q 50.5 100.55 50.15 101.2 49.8 101.85 50.5 102.9 51.8 104.9 55 106.6 59.1 108.75 63.95 108.75 Z"/>
 </g>
 
 <g id="Layer0_0_MEMBER_4_MEMBER_3_FILL">
@@ -59,35 +59,35 @@ Q 57.35 89.85 57.1 90.3 56.8 90.7 57.05 91.2 57.75 92.35 59.45 93.4 61.65 94.75 
 </defs>
 
 <g id="Layer_1">
-<g transform="matrix( 0.5625, 0, 0, 0.5625, 0,-0.3) ">
+<g transform="matrix( 0.5625, 0, 0, 0.5625, 0,-0.25) ">
 <use xlink:href="#Layer0_0_MEMBER_0_FILL"/>
 </g>
 
-<g transform="matrix( 0.5625, 0, 0, 0.5625, 0,-0.3) ">
+<g transform="matrix( 0.5625, 0, 0, 0.5625, 0,-0.25) ">
 <use xlink:href="#Layer0_0_MEMBER_1_FILL"/>
 </g>
 
-<g transform="matrix( 0.5625, 0, 0, 0.5625, 0,-0.3) ">
+<g transform="matrix( 0.5625, 0, 0, 0.5625, 0,-0.25) ">
 <use xlink:href="#Layer0_0_MEMBER_2_FILL"/>
 </g>
 
-<g transform="matrix( 0.5625, 0, 0, 0.5625, 0,-0.3) ">
+<g transform="matrix( 0.5625, 0, 0, 0.5625, 0,-0.25) ">
 <use xlink:href="#Layer0_0_MEMBER_3_FILL"/>
 </g>
 
-<g transform="matrix( 0.5625, 0, 0, 0.5625, 0,-0.3) ">
+<g transform="matrix( 0.5624847412109375, 0, 0, 0.5624847412109375, 0,-0.25) ">
 <use xlink:href="#Layer0_0_MEMBER_4_MEMBER_0_FILL"/>
 </g>
 
-<g transform="matrix( 0.5625, 0, 0, 0.5625, 0,-0.3) ">
+<g transform="matrix( 0.5624847412109375, 0, 0, 0.5624847412109375, 0,-0.25) ">
 <use xlink:href="#Layer0_0_MEMBER_4_MEMBER_1_FILL"/>
 </g>
 
-<g transform="matrix( 0.5625, 0, 0, 0.5625, 0,-0.3) ">
+<g transform="matrix( 0.5624847412109375, 0, 0, 0.5624847412109375, 0,-0.25) ">
 <use xlink:href="#Layer0_0_MEMBER_4_MEMBER_2_FILL"/>
 </g>
 
-<g transform="matrix( 0.5625, 0, 0, 0.5625, 0,-0.3) ">
+<g transform="matrix( 0.5624847412109375, 0, 0, 0.5624847412109375, 0,-0.25) ">
 <use xlink:href="#Layer0_0_MEMBER_4_MEMBER_3_FILL"/>
 </g>
 </g>
