@@ -2,20 +2,21 @@
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="72px" height="72px" viewBox="0 0 72 72">
 <defs>
 <g id="Layer0_0_MEMBER_0_MEMBER_0_FILL">
-<path fill="#E187AC" stroke="none" d="
-M 72 6.75
-Q 72 4 70 2 68 0 65.25 0
+<path fill="#ECB6CD" stroke="none" d="
+M 70 2
+Q 68 0 65.25 0
 L 6.75 0
 Q 3.95 0 2 2 0 4 0 6.75
 L 0 65.25
 Q 0 68.05 2 70.05 3.95 72 6.75 72
 L 65.25 72
 Q 68 72 70 70.05 72 68.05 72 65.25
-L 72 6.75 Z"/>
+L 72 6.75
+Q 72 4 70 2 Z"/>
 </g>
 
 <g id="Layer0_0_MEMBER_0_MEMBER_1_MEMBER_0_FILL">
-<path fill="#D13175" stroke="none" d="
+<path fill="#D8578D" stroke="none" d="
 M 72 6.75
 Q 72 3.95 70 2
 L 1.95 70.05
