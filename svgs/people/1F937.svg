@@ -1,10 +1,6 @@
 
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="72px" height="72px" viewBox="0 0 72 72">
 <defs>
-<filter id="Filter_1" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
-<feColorMatrix in="SourceGraphic" type="matrix" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.54 0" result="result1"/>
-</filter>
-
 <g id="Layer0_0_FILL">
 <path fill="#FFA000" stroke="none" d="
 M 95.7 71.75
@@ -52,10 +48,10 @@ L 56.8 42
 Q 56.5 41.95 56.25 42.2 Z"/>
 </g>
 
-<g id="An_1F937_SVG_Layer_1__Path__0_Layer0_0_FILL">
-<path fill="#000000" stroke="none" d="
-M 1.85 0
-L 0 13.55 2.4 16.35 4.25 2.75 1.85 0 Z"/>
+<g id="Layer0_1_MEMBER_2_FILL">
+<path fill="#020202" fill-opacity="0.5372549019607843" stroke="none" d="
+M 0 13.55
+L 2.4 16.35 4.25 2.75 1.85 0 0 13.55 Z"/>
 </g>
 
 <g id="Layer0_2_FILL">
@@ -146,10 +142,10 @@ Q 7.6 68.1 9.5 70.05 11.4 72 14.15 72 16.4 72 17.9 70.3 19.4 68.6 19.05 66.35
 L 16 42.7 Z"/>
 </g>
 
-<g id="An_1F937_SVG_Layer_1__Path__0_0_Layer0_0_FILL">
-<path fill="#000000" stroke="none" d="
-M 4.3 13.55
-L 2.4 0 0 2.75 1.85 16.35 4.3 13.55 Z"/>
+<g id="Layer0_7_FILL">
+<path fill="#020202" fill-opacity="0.5372549019607843" stroke="none" d="
+M 18.4 61.7
+L 19.75 60.1 18.7 52.5 17.35 54.05 18.4 61.7 Z"/>
 </g>
 </defs>
 
@@ -162,11 +158,11 @@ L 2.4 0 0 2.75 1.85 16.35 4.3 13.55 Z"/>
 <use xlink:href="#Layer0_1_MEMBER_0_FILL"/>
 </g>
 
-<g transform="matrix( 0.5624847412109375, 0, 0, 0.5624847412109375, -0.05,0) ">
+<g transform="matrix( 0.562469482421875, 0, 0, 0.562469482421875, -0.05,0) ">
 <use xlink:href="#Layer0_1_MEMBER_1_MEMBER_0_MEMBER_0_FILL"/>
 </g>
 
-<g transform="matrix( 0.5624847412109375, 0, 0, 0.5624847412109375, -0.05,0) ">
+<g transform="matrix( 0.562469482421875, 0, 0, 0.562469482421875, -0.05,0) ">
 <use xlink:href="#Layer0_1_MEMBER_1_MEMBER_0_MEMBER_1_FILL"/>
 </g>
 
@@ -175,11 +171,7 @@ L 2.4 0 0 2.75 1.85 16.35 4.3 13.55 Z"/>
 </g>
 
 <g transform="matrix( 0.5625, 0, 0, 0.5625, 52.15,52.5) ">
-<g id="Camada_1">
-<g transform="matrix( 1, 0, 0, 1, 0,0) ">
-<use filter="url(#Filter_1)" xlink:href="#An_1F937_SVG_Layer_1__Path__0_Layer0_0_FILL"/>
-</g>
-</g>
+<use xlink:href="#Layer0_1_MEMBER_2_FILL"/>
 </g>
 
 <g transform="matrix( 0.5625, 0, 0, 0.5625, 0.05,0) ">
@@ -218,11 +210,11 @@ L 2.4 0 0 2.75 1.85 16.35 4.3 13.55 Z"/>
 <use xlink:href="#Layer0_5_MEMBER_5_FILL"/>
 </g>
 
-<g transform="matrix( 0.562469482421875, 0, 0, 0.562469482421875, 0,0) ">
+<g transform="matrix( 0.5624542236328125, 0, 0, 0.5624542236328125, 0,0) ">
 <use xlink:href="#Layer0_6_MEMBER_0_MEMBER_0_FILL"/>
 </g>
 
-<g transform="matrix( 0.562469482421875, 0, 0, 0.562469482421875, 0,0) ">
+<g transform="matrix( 0.5624542236328125, 0, 0, 0.5624542236328125, 0,0) ">
 <use xlink:href="#Layer0_6_MEMBER_0_MEMBER_1_FILL"/>
 </g>
 
@@ -230,10 +222,8 @@ L 2.4 0 0 2.75 1.85 16.35 4.3 13.55 Z"/>
 <use xlink:href="#Layer0_6_MEMBER_1_MEMBER_0_MEMBER_0_FILL"/>
 </g>
 
-<g transform="matrix( 0.5625, 0, 0, 0.5625, 17.35,52.5) ">
 <g transform="matrix( 1, 0, 0, 1, 0,0) ">
-<use filter="url(#Filter_1)" xlink:href="#An_1F937_SVG_Layer_1__Path__0_0_Layer0_0_FILL"/>
-</g>
+<use xlink:href="#Layer0_7_FILL"/>
 </g>
 </g>
 </svg>
