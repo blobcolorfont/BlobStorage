@@ -1,16 +1,1 @@
-
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="72px" height="72px" viewBox="0 0 72 72">
-<defs>
-<g id="Layer0_0_MEMBER_0_FILL">
-<path fill="#FADCBC" stroke="none" d="
-M 10 10
-L 10 118 118 118 118 10 10 10 Z"/>
-</g>
-</defs>
-
-<g id="Layer_1">
-<g transform="matrix( 0.5625, 0, 0, 0.5625, 0,0) ">
-<use xlink:href="#Layer0_0_MEMBER_0_FILL"/>
-</g>
-</g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" viewBox="0 0 72 72"><defs><path id="a" fill="#FADCBC" d="M10 10v108h108V10H10z"/></defs><use transform="scale(.5625)" xlink:href="#a"/></svg>
