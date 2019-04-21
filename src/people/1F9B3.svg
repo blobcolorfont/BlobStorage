@@ -1,0 +1,44 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="72px" height="72px" viewBox="0 0 72 72">
+<defs>
+<g id="Layer0_1_FILL">
+<path fill="#E0E0E0" stroke="none" d="
+M 43.15 37.85
+Q 43.2 37.75 43.25 37.7 43.35 37.7 43.5 37.7 43.7 37.75 43.8 38 47.5 45.55 54.9 50.8 57.6 52.8 59.95 53.95 60.55 54.2 61.15 54.45
+L 61.55 51.95 61.55 51.9 62 48.75 62.45 48.95
+Q 63 49.2 63.4 49.55 64.1 50.05 64.4 50.35
+L 64.4 37.65
+Q 63.95 35.4 63.05 33.2 55.3 19.2 40.25 17.55 40.2 17.55 40.15 17.55
+L 40.1 17.55
+Q 38.2 17.4 36.15 17.4 34.15 17.4 32.25 17.55
+L 32.15 17.55
+Q 32.1 17.55 32.05 17.55 17.1 19.2 9.3 33.2 9.3 33.3 9.2 33.4 7.9 36.7 7.65 40
+L 7.65 50.35
+Q 8 50.05 8.65 49.6 9.05 49.2 9.65 48.95
+L 10.05 48.75 10.55 52.15 10.55 52.35 10.9 54.5 10.9 54.6
+Q 11.5 54.45 12.15 54.35 14.1 53.95 16 53.45
+L 27.3 48.95 31.7 46.45
+Q 32.1 46.2 32.45 45.95 38.6 42.15 43.15 37.85 Z"/>
+</g>
+
+<path id="Layer0_0_1_STROKES" stroke="#2F2F2F" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" fill="none" d="
+M 3.5 3.5
+L 68.5 3.5 68.5 68.5 3.5 68.5 3.5 3.5 Z"/>
+
+<path id="Layer0_1_1_STROKES" stroke="#E75625" stroke-width="0.1" stroke-linejoin="round" stroke-linecap="round" fill="none" d="
+M 10.9 54.5
+L 10.9 54.6"/>
+</defs>
+
+<g id="Camada_1">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#Layer0_0_1_STROKES"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#Layer0_1_FILL"/>
+
+<use xlink:href="#Layer0_1_1_STROKES"/>
+</g>
+</g>
+</svg>
