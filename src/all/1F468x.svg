@@ -77,11 +77,11 @@ L 78.85 102.7 Z"/>
 </defs>
 
 <g id="Layer_1">
-<g transform="matrix( 0.5624847412109375, 0, 0, 0.5624847412109375, 0,-0.35) ">
+<g transform="matrix( 0.562469482421875, 0, 0, 0.562469482421875, 0,-0.85) ">
 <use xlink:href="#Layer0_0_MEMBER_0_MEMBER_0_FILL"/>
 </g>
 
-<g transform="matrix( 0.5624847412109375, 0, 0, 0.5624847412109375, 0,-0.35) ">
+<g transform="matrix( 0.562469482421875, 0, 0, 0.562469482421875, 0,-0.85) ">
 <use xlink:href="#Layer0_0_MEMBER_0_MEMBER_1_FILL"/>
 </g>
 
@@ -105,7 +105,7 @@ L 78.85 102.7 Z"/>
 <use xlink:href="#Layer0_0_MEMBER_5_FILL"/>
 </g>
 
-<g transform="matrix( 1, 0, 0, 1, 0,-0.3) ">
+<g transform="matrix( 1, 0, 0, 1, 0,-0.8) ">
 <use xlink:href="#Layer0_0_MEMBER_6_FILL"/>
 </g>
 
