@@ -122,4 +122,4 @@ ofiles.forEach(function (item, index) {
   });
 });
 
-console.log("Done!");
+console.log("Finishing the build...");
