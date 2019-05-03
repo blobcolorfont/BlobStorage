@@ -54,7 +54,7 @@ L 57.85 10.2 Z"/>
 </g>
 
 <g id="Layer0_0_MEMBER_0_MEMBER_3_FILL">
-<path fill="#7E57C2" stroke="none" d="
+<path fill="#00ACC1" stroke="none" d="
 M 82.5 80
 Q 82.3 78.45 81.05 77.5
 L 65.9 65.6
@@ -114,19 +114,19 @@ Q 48.25 28.4 47.95 28.35 47.5 28.15 46.65 27.65 45.75 27.1 45.35 26.9 44.15 26.4
 <use xlink:href="#Layer0_0_MEMBER_0_MEMBER_1_FILL"/>
 </g>
 
-<g transform="matrix( 0.56243896484375, 0, 0, 0.56243896484375, 0,0) ">
+<g transform="matrix( 0.5624237060546875, 0, 0, 0.5624237060546875, 0,0) ">
 <use xlink:href="#Layer0_0_MEMBER_0_MEMBER_2_MEMBER_0_FILL"/>
 </g>
 
-<g transform="matrix( 0.56243896484375, 0, 0, 0.56243896484375, 0,0) ">
+<g transform="matrix( 0.5624237060546875, 0, 0, 0.5624237060546875, 0,0) ">
 <use xlink:href="#Layer0_0_MEMBER_0_MEMBER_2_MEMBER_1_FILL"/>
 </g>
 
-<g transform="matrix( 0.56243896484375, 0, 0, 0.56243896484375, 0,0) ">
+<g transform="matrix( 0.5624237060546875, 0, 0, 0.5624237060546875, 0,0) ">
 <use xlink:href="#Layer0_0_MEMBER_0_MEMBER_2_MEMBER_2_FILL"/>
 </g>
 
-<g transform="matrix( 0.56243896484375, 0, 0, 0.56243896484375, 0,0) ">
+<g transform="matrix( 0.5624237060546875, 0, 0, 0.5624237060546875, 0,0) ">
 <use xlink:href="#Layer0_0_MEMBER_0_MEMBER_2_MEMBER_3_FILL"/>
 </g>
 
