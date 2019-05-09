@@ -1,6 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 const svgo = require('svgo');
+const {exec} = require('child_process');
 const optimizer = new svgo({
         plugins: [{
           cleanupAttrs: true,
@@ -163,5 +164,9 @@ ofiles.forEach(function (item, index) {
     });
   });
 });
+
+console.log("Converting SVGs to PNGs");
+
+exec('magick convert -size 128x128 -background "rgba(255,255,255,0)" -set filename:f "%t" svg:./svgs/*.svg png:./pngs/128/"%[filename:f].png"');
 
 console.log("Finishing the build...");
