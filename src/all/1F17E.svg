@@ -1,0 +1,67 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="72px" height="72px" viewBox="0 0 72 72">
+<defs>
+<g id="Layer1_0_MEMBER_0_MEMBER_0_FILL">
+<path fill="#EF5250" stroke="none" d="
+M 72 6.75
+Q 72 4 70 2 68 0 65.25 0
+L 6.75 0
+Q 3.95 0 2 2 0 4 0 6.75
+L 0 65.25
+Q 0 68.05 2 70.05 3.95 72 6.75 72
+L 65.25 72
+Q 68 72 70 70.05 72 68.05 72 65.25
+L 72 6.75 Z"/>
+</g>
+
+<g id="Layer1_0_MEMBER_0_MEMBER_1_MEMBER_0_FILL">
+<path fill="#C62728" stroke="none" d="
+M 72 6.75
+Q 72 3.95 70 2
+L 1.95 70.05
+Q 3.9 72 6.75 72
+L 65.25 72
+Q 68 72 70 70.05 72 68.05 72 65.25
+L 72 6.75 Z"/>
+</g>
+
+<g id="Layer1_0_MEMBER_0_MEMBER_2_FILL">
+<path fill="#E53835" stroke="none" d="
+M 63 16.25
+Q 63 13.45 61.05 11.5 59.05 9.5 56.25 9.5
+L 15.65 9.5
+Q 12.9 9.5 10.9 11.5 8.9 13.45 8.9 16.25
+L 8.9 56.8
+Q 8.9 59.6 10.9 61.6 12.9 63.55 15.65 63.55
+L 56.25 63.55
+Q 59.05 63.55 61.05 61.6 63 59.6 63 56.8
+L 63 16.25 Z"/>
+</g>
+
+<g id="Layer0_0_FILL">
+<path fill="#FFFFFF" stroke="none" d="
+M 115.6 64
+Q 115.6 42.2 101 28.05 86.4 13.85 63.95 13.85 41.5 13.85 26.9 28.05 12.3 42.2 12.3 64 12.3 85.85 26.9 100 41.5 114.2 63.95 114.2 86.4 114.2 101 100 115.6 85.85 115.6 64
+M 89.05 64
+Q 89.05 74.75 82.05 81.55 75.05 88.35 63.95 88.35 52.85 88.35 45.85 81.55 38.8 74.75 38.8 64 38.8 53.3 45.85 46.5 52.85 39.7 63.95 39.7 75.05 39.7 82.05 46.5 89.05 53.25 89.05 64 Z"/>
+</g>
+</defs>
+
+<g id="Layer_1">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#Layer1_0_MEMBER_0_MEMBER_0_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#Layer1_0_MEMBER_0_MEMBER_1_MEMBER_0_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#Layer1_0_MEMBER_0_MEMBER_2_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 0, 0.393035888671875, -0.3632049560546875, 0, 59.25,10.85) ">
+<use xlink:href="#Layer0_0_FILL"/>
+</g>
+</svg>
