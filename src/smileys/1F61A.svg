@@ -281,201 +281,200 @@ Q 70.5 80.85 71.1 82.9 71.25 83.35 71.1 84.1 70.9 84.8 70.65 85.1 69.5 86.5 67.8
 
 <g id="Layer0_3_FILL">
 <path fill="#2F2F2F" stroke="none" d="
-M 101.1 56.5
-Q 101.4 55.4 100.85 54.45 99.6 52.4 97.25 50.55 92.6 46.85 86.45 46.85 80.35 46.85 75.65 50.55 72.15 54.3 72.05 54.45 71.5 55.4 71.8 56.55 72.1 57.65 73.05 58.2 73.75 58.6 74.45 58.6 75.95 58.6 76.75 57.25 76.85 57.15 79.2 54.7 82.35 52.3 86.45 52.3 90.6 52.3 93.7 54.7 95.3 55.9 96.15 57.25 96.7 58.2 97.8 58.45 98.9 58.75 99.85 58.2 100.85 57.6 101.1 56.5 Z"/>
+M 96.15 57.25
+Q 96.7 58.2 97.8 58.45 98.9 58.75 99.85 58.2 100.85 57.6 101.1 56.5 101.4 55.4 100.85 54.45 99.6 52.4 97.25 50.55 92.6 46.85 86.45 46.85 80.35 46.85 75.65 50.55 72.15 54.3 72.05 54.45 71.5 55.4 71.8 56.55 72.1 57.65 73.05 58.2 73.75 58.6 74.45 58.6 75.95 58.6 76.75 57.25 76.85 57.15 79.2 54.7 82.35 52.3 86.45 52.3 90.6 52.3 93.7 54.7 95.3 55.9 96.15 57.25 Z"/>
 </g>
 
 <g id="Layer0_4_FILL">
 <path fill="#2F2F2F" stroke="none" d="
-M 27.1 54.45
-Q 26.55 55.4 26.85 56.55 27.15 57.65 28.1 58.2 28.8 58.6 29.45 58.6 31 58.6 31.85 57.25 31.9 57.15 34.25 54.7 37.35 52.3 41.5 52.3 45.7 52.3 48.85 54.75 50.45 56 51.2 57.25 51.75 58.2 52.85 58.5 53.9 58.75 54.9 58.2 55.9 57.65 56.15 56.55 56.45 55.4 55.85 54.45 54.65 52.4 52.3 50.55 47.6 46.85 41.5 46.85 35.35 46.85 30.7 50.55 27.2 54.3 27.1 54.45 Z"/>
+M 28.1 58.2
+Q 28.8 58.6 29.45 58.6 31 58.6 31.85 57.25 31.9 57.15 34.25 54.7 37.35 52.3 41.5 52.3 45.7 52.3 48.85 54.75 50.45 56 51.2 57.25 51.75 58.2 52.85 58.5 53.9 58.75 54.9 58.2 55.9 57.65 56.15 56.55 56.45 55.4 55.85 54.45 54.65 52.4 52.3 50.55 47.6 46.85 41.5 46.85 35.35 46.85 30.7 50.55 27.2 54.3 27.1 54.45 26.55 55.4 26.85 56.55 27.15 57.65 28.1 58.2 Z"/>
 </g>
 
 <path id="Layer0_5_1_STROKES" stroke="#2F2F2F" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" fill="none" d="
-M 48.8 20.1
-Q 55.15 19.35 59.4 24.4
-M 23.3 20.2
-Q 16.85 19.4 12.6 24.4"/>
+M 48.83769073486328 20.491915893554687
+Q 53.732763671875 19.72422943115234 57.36459197998047 23.01431427001953
+M 23.783338928222655 20.491915893554687
+Q 18.625090026855467 19.66939468383789 14.835356140136719 23.288488006591795"/>
 </defs>
 
-<g id="Layer_1">
 <g transform="matrix( 0.5625, 0, 0, 0.5625, 0,0) ">
 <use xlink:href="#Layer0_0_FILL"/>
 </g>
 
-<g transform="matrix( 0.5625, 0, 0, 0.5625, 0,0) ">
+<g transform="matrix( 0.562469482421875, 0, 0, 0.562469482421875, 0,0) ">
 <use xlink:href="#Layer0_1_MEMBER_0_MEMBER_0_FILL"/>
 </g>
 
-<g transform="matrix( 0.5625, 0, 0, 0.5625, 0,0) ">
+<g transform="matrix( 0.562469482421875, 0, 0, 0.562469482421875, 0,0) ">
 <use xlink:href="#Layer0_1_MEMBER_0_MEMBER_1_FILL"/>
 </g>
 
-<g transform="matrix( 0.5625, 0, 0, 0.5625, 0,0) ">
+<g transform="matrix( 0.562469482421875, 0, 0, 0.562469482421875, 0,0) ">
 <use xlink:href="#Layer0_1_MEMBER_0_MEMBER_2_FILL"/>
 </g>
 
-<g transform="matrix( 0.5625, 0, 0, 0.5625, 0,0) ">
+<g transform="matrix( 0.562469482421875, 0, 0, 0.562469482421875, 0,0) ">
 <use xlink:href="#Layer0_1_MEMBER_0_MEMBER_3_FILL"/>
 </g>
 
-<g transform="matrix( 0.5625, 0, 0, 0.5625, 0,0) ">
+<g transform="matrix( 0.562469482421875, 0, 0, 0.562469482421875, 0,0) ">
 <use xlink:href="#Layer0_1_MEMBER_0_MEMBER_4_FILL"/>
 </g>
 
-<g transform="matrix( 0.5625, 0, 0, 0.5625, 0,0) ">
+<g transform="matrix( 0.562469482421875, 0, 0, 0.562469482421875, 0,0) ">
 <use xlink:href="#Layer0_1_MEMBER_0_MEMBER_5_FILL"/>
 </g>
 
-<g transform="matrix( 0.5625, 0, 0, 0.5625, 0,0) ">
+<g transform="matrix( 0.562469482421875, 0, 0, 0.562469482421875, 0,0) ">
 <use xlink:href="#Layer0_1_MEMBER_0_MEMBER_6_FILL"/>
 </g>
 
-<g transform="matrix( 0.5625, 0, 0, 0.5625, 0,0) ">
+<g transform="matrix( 0.562469482421875, 0, 0, 0.562469482421875, 0,0) ">
 <use xlink:href="#Layer0_1_MEMBER_0_MEMBER_7_FILL"/>
 </g>
 
-<g transform="matrix( 0.5625, 0, 0, 0.5625, 0,0) ">
+<g transform="matrix( 0.562469482421875, 0, 0, 0.562469482421875, 0,0) ">
 <use xlink:href="#Layer0_1_MEMBER_0_MEMBER_8_FILL"/>
 </g>
 
-<g transform="matrix( 0.5625, 0, 0, 0.5625, 0,0) ">
+<g transform="matrix( 0.562469482421875, 0, 0, 0.562469482421875, 0,0) ">
 <use xlink:href="#Layer0_1_MEMBER_0_MEMBER_9_FILL"/>
 </g>
 
-<g transform="matrix( 0.5625, 0, 0, 0.5625, 0,0) ">
+<g transform="matrix( 0.562469482421875, 0, 0, 0.562469482421875, 0,0) ">
 <use xlink:href="#Layer0_1_MEMBER_0_MEMBER_10_FILL"/>
 </g>
 
-<g transform="matrix( 0.5625, 0, 0, 0.5625, 0,0) ">
+<g transform="matrix( 0.562469482421875, 0, 0, 0.562469482421875, 0,0) ">
 <use xlink:href="#Layer0_1_MEMBER_0_MEMBER_11_FILL"/>
 </g>
 
-<g transform="matrix( 0.5625, 0, 0, 0.5625, 0,0) ">
+<g transform="matrix( 0.562469482421875, 0, 0, 0.562469482421875, 0,0) ">
 <use xlink:href="#Layer0_1_MEMBER_0_MEMBER_12_FILL"/>
 </g>
 
-<g transform="matrix( 0.5625, 0, 0, 0.5625, 0,0) ">
+<g transform="matrix( 0.562469482421875, 0, 0, 0.562469482421875, 0,0) ">
 <use xlink:href="#Layer0_1_MEMBER_0_MEMBER_13_FILL"/>
 </g>
 
-<g transform="matrix( 0.5625, 0, 0, 0.5625, 0,0) ">
+<g transform="matrix( 0.562469482421875, 0, 0, 0.562469482421875, 0,0) ">
 <use xlink:href="#Layer0_1_MEMBER_0_MEMBER_14_FILL"/>
 </g>
 
-<g transform="matrix( 0.5625, 0, 0, 0.5625, 0,0) ">
+<g transform="matrix( 0.562469482421875, 0, 0, 0.562469482421875, 0,0) ">
 <use xlink:href="#Layer0_1_MEMBER_0_MEMBER_15_FILL"/>
 </g>
 
-<g transform="matrix( 0.5625, 0, 0, 0.5625, 0,0) ">
+<g transform="matrix( 0.562469482421875, 0, 0, 0.562469482421875, 0,0) ">
 <use xlink:href="#Layer0_1_MEMBER_0_MEMBER_16_FILL"/>
 </g>
 
-<g transform="matrix( 0.5625, 0, 0, 0.5625, 0,0) ">
+<g transform="matrix( 0.562469482421875, 0, 0, 0.562469482421875, 0,0) ">
 <use xlink:href="#Layer0_1_MEMBER_0_MEMBER_17_FILL"/>
 </g>
 
-<g transform="matrix( 0.5625, 0, 0, 0.5625, 0,0) ">
+<g transform="matrix( 0.562469482421875, 0, 0, 0.562469482421875, 0,0) ">
 <use xlink:href="#Layer0_1_MEMBER_0_MEMBER_18_FILL"/>
 </g>
 
-<g transform="matrix( 0.5625, 0, 0, 0.5625, 0,0) ">
+<g transform="matrix( 0.562469482421875, 0, 0, 0.562469482421875, 0,0) ">
 <use xlink:href="#Layer0_1_MEMBER_0_MEMBER_19_FILL"/>
 </g>
 
-<g transform="matrix( 0.5625, 0, 0, 0.5625, 0,0) ">
+<g transform="matrix( 0.562469482421875, 0, 0, 0.562469482421875, 0,0) ">
 <use xlink:href="#Layer0_1_MEMBER_0_MEMBER_20_FILL"/>
 </g>
 
-<g transform="matrix( 0.5625, 0, 0, 0.5625, 0,0) ">
+<g transform="matrix( 0.562469482421875, 0, 0, 0.562469482421875, 0,0) ">
 <use xlink:href="#Layer0_1_MEMBER_0_MEMBER_21_FILL"/>
 </g>
 
-<g transform="matrix( 0.5625, 0, 0, 0.5625, 0,0) ">
+<g transform="matrix( 0.562469482421875, 0, 0, 0.562469482421875, 0,0) ">
 <use xlink:href="#Layer0_1_MEMBER_1_MEMBER_0_FILL"/>
 </g>
 
-<g transform="matrix( 0.5625, 0, 0, 0.5625, 0,0) ">
+<g transform="matrix( 0.562469482421875, 0, 0, 0.562469482421875, 0,0) ">
 <use xlink:href="#Layer0_1_MEMBER_1_MEMBER_1_FILL"/>
 </g>
 
-<g transform="matrix( 0.5625, 0, 0, 0.5625, 0,0) ">
+<g transform="matrix( 0.562469482421875, 0, 0, 0.562469482421875, 0,0) ">
 <use xlink:href="#Layer0_1_MEMBER_1_MEMBER_2_FILL"/>
 </g>
 
-<g transform="matrix( 0.5625, 0, 0, 0.5625, 0,0) ">
+<g transform="matrix( 0.562469482421875, 0, 0, 0.562469482421875, 0,0) ">
 <use xlink:href="#Layer0_1_MEMBER_1_MEMBER_3_FILL"/>
 </g>
 
-<g transform="matrix( 0.5625, 0, 0, 0.5625, 0,0) ">
+<g transform="matrix( 0.562469482421875, 0, 0, 0.562469482421875, 0,0) ">
 <use xlink:href="#Layer0_1_MEMBER_1_MEMBER_4_FILL"/>
 </g>
 
-<g transform="matrix( 0.5625, 0, 0, 0.5625, 0,0) ">
+<g transform="matrix( 0.562469482421875, 0, 0, 0.562469482421875, 0,0) ">
 <use xlink:href="#Layer0_1_MEMBER_1_MEMBER_5_FILL"/>
 </g>
 
-<g transform="matrix( 0.5625, 0, 0, 0.5625, 0,0) ">
+<g transform="matrix( 0.562469482421875, 0, 0, 0.562469482421875, 0,0) ">
 <use xlink:href="#Layer0_1_MEMBER_1_MEMBER_6_FILL"/>
 </g>
 
-<g transform="matrix( 0.5625, 0, 0, 0.5625, 0,0) ">
+<g transform="matrix( 0.562469482421875, 0, 0, 0.562469482421875, 0,0) ">
 <use xlink:href="#Layer0_1_MEMBER_1_MEMBER_7_FILL"/>
 </g>
 
-<g transform="matrix( 0.5625, 0, 0, 0.5625, 0,0) ">
+<g transform="matrix( 0.562469482421875, 0, 0, 0.562469482421875, 0,0) ">
 <use xlink:href="#Layer0_1_MEMBER_1_MEMBER_8_FILL"/>
 </g>
 
-<g transform="matrix( 0.5625, 0, 0, 0.5625, 0,0) ">
+<g transform="matrix( 0.562469482421875, 0, 0, 0.562469482421875, 0,0) ">
 <use xlink:href="#Layer0_1_MEMBER_1_MEMBER_9_FILL"/>
 </g>
 
-<g transform="matrix( 0.5625, 0, 0, 0.5625, 0,0) ">
+<g transform="matrix( 0.562469482421875, 0, 0, 0.562469482421875, 0,0) ">
 <use xlink:href="#Layer0_1_MEMBER_1_MEMBER_10_FILL"/>
 </g>
 
-<g transform="matrix( 0.5625, 0, 0, 0.5625, 0,0) ">
+<g transform="matrix( 0.562469482421875, 0, 0, 0.562469482421875, 0,0) ">
 <use xlink:href="#Layer0_1_MEMBER_1_MEMBER_11_FILL"/>
 </g>
 
-<g transform="matrix( 0.5625, 0, 0, 0.5625, 0,0) ">
+<g transform="matrix( 0.562469482421875, 0, 0, 0.562469482421875, 0,0) ">
 <use xlink:href="#Layer0_1_MEMBER_1_MEMBER_12_FILL"/>
 </g>
 
-<g transform="matrix( 0.5625, 0, 0, 0.5625, 0,0) ">
+<g transform="matrix( 0.562469482421875, 0, 0, 0.562469482421875, 0,0) ">
 <use xlink:href="#Layer0_1_MEMBER_1_MEMBER_13_FILL"/>
 </g>
 
-<g transform="matrix( 0.5625, 0, 0, 0.5625, 0,0) ">
+<g transform="matrix( 0.562469482421875, 0, 0, 0.562469482421875, 0,0) ">
 <use xlink:href="#Layer0_1_MEMBER_1_MEMBER_14_FILL"/>
 </g>
 
-<g transform="matrix( 0.5625, 0, 0, 0.5625, 0,0) ">
+<g transform="matrix( 0.562469482421875, 0, 0, 0.562469482421875, 0,0) ">
 <use xlink:href="#Layer0_1_MEMBER_1_MEMBER_15_FILL"/>
 </g>
 
-<g transform="matrix( 0.5625, 0, 0, 0.5625, 0,0) ">
+<g transform="matrix( 0.562469482421875, 0, 0, 0.562469482421875, 0,0) ">
 <use xlink:href="#Layer0_1_MEMBER_1_MEMBER_16_FILL"/>
 </g>
 
-<g transform="matrix( 0.5625, 0, 0, 0.5625, 0,0) ">
+<g transform="matrix( 0.562469482421875, 0, 0, 0.562469482421875, 0,0) ">
 <use xlink:href="#Layer0_1_MEMBER_1_MEMBER_17_FILL"/>
 </g>
 
-<g transform="matrix( 0.5625, 0, 0, 0.5625, 0,0) ">
+<g transform="matrix( 0.562469482421875, 0, 0, 0.562469482421875, 0,0) ">
 <use xlink:href="#Layer0_1_MEMBER_1_MEMBER_18_FILL"/>
 </g>
 
-<g transform="matrix( 0.5625, 0, 0, 0.5625, 0,0) ">
+<g transform="matrix( 0.562469482421875, 0, 0, 0.562469482421875, 0,0) ">
 <use xlink:href="#Layer0_1_MEMBER_1_MEMBER_19_FILL"/>
 </g>
 
-<g transform="matrix( 0.5625, 0, 0, 0.5625, 0,0) ">
+<g transform="matrix( 0.562469482421875, 0, 0, 0.562469482421875, 0,0) ">
 <use xlink:href="#Layer0_1_MEMBER_1_MEMBER_20_FILL"/>
 </g>
 
-<g transform="matrix( 0.5625, 0, 0, 0.5625, 0,0) ">
+<g transform="matrix( 0.562469482421875, 0, 0, 0.562469482421875, 0,0) ">
 <use xlink:href="#Layer0_1_MEMBER_1_MEMBER_21_FILL"/>
 </g>
 
@@ -491,8 +490,7 @@ Q 16.85 19.4 12.6 24.4"/>
 <use xlink:href="#Layer0_4_FILL"/>
 </g>
 
-<g transform="matrix( 1, 0, 0, 1, 0,0) ">
-<use xlink:href="#Layer0_5_1_STROKES"/>
-</g>
+<g transform="matrix( 1.052703857421875, 0, 0, 1.0966949462890625, -1.85,-2.1) ">
+<use xlink:href="#Layer0_5_1_STROKES" transform="matrix( 0.949920654296875, 0, 0, 0.9118194580078125, 1.75,1.9) "/>
 </g>
 </svg>
