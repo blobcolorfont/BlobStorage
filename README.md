@@ -1,4 +1,5 @@
 # BlobStorage
+![BlobStorage's banner](banner.png)
 This is the repository where the source SVGs, the optimized SVGs and 128x PNGs for the Blob Color Font project are stored.<br>
 The emoji are either based on or directly from the [Noto Color Emoji](https://github.com/googlei18n/noto-emoji/) before the Oreo update.<br>
 All the output files were generated and can be used without having to build anything.<br>
