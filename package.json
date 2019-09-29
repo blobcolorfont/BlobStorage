@@ -1,0 +1,33 @@
+{
+  "name": "blobstorage",
+  "version": "0.1.0",
+  "description": "Holds the source files of the Blob Color Font project, also prepares them for use.",
+  "main": "build.js",
+  "dependencies": {
+    "sharp": "^0.23.1",
+    "svgo": "^1.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build": "node build.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaoh1/BlobStorage.git"
+  },
+  "keywords": [
+    "blobs",
+    "blob",
+    "emoji",
+    "svg",
+    "emojis",
+    "assets"
+  ],
+  "author": "joaoh1",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/joaoh1/BlobStorage/issues"
+  },
+  "homepage": "https://github.com/joaoh1/BlobStorage#readme"
+}
