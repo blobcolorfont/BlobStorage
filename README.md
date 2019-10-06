@@ -11,7 +11,7 @@ Our emojis can be used outside the font project as long as you credit us.
 
 ## Building /svg/ and /png/
 To build the SVG along with the skin-colored variants, you need [Node.js](https://nodejs.org/en/) installed, the packages (svgo and sharp) are necessary to optimize and export the SVGs, which can be done by executing ``npm install``.<br>
-After they are installed, execute ``npm build`` and the /svg/ and /png/ folder will be built from all the folders from /src/.
+After they are installed, execute ``npm run build`` and the /svg/ and /png/ folder will be built from all the folders from /src/.
 
 ## License
 All the image resources released under this repository are licensed under the [Apache license, version 2.0](./LICENSE).
