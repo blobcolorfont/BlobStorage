@@ -42,20 +42,18 @@ const svgoInstance = new svgo({
 const skincolorvalues = ["", "-1F3FB", "-1F3FC", "-1F3FD", "-1F3FE", "-1F3FF"],
     skincolor = ["FCC21B", "FADCBC", "E0BB95", "CC9970", "AD6F43", "8E726A"],
     handcolor = ["FAC036", "FADCBC", "E0BB95", "CC9970", "AD6F43", "8E726A"],
-    hand2color = ["E39E49", "DBA689", "C48E6A", "99674F", "7A4C32", "563E37"],
+    hand2color = ["E48C15", "DBA689", "C48E6A", "99674F", "7A4C32", "563E37"],
     haircolor = ["FFA000", "312D2D", "BFA055", "6D4C41", "47352D", "232020"],
     neckcolor = ["E59900", "DBA689", "C48E6A", "99674F", "7A4C32", "563E37"],
-    othercolor = ["E59600", "DBA689", "C48E6A", "99674F", "7A4C32", "563E37"],
-    nosecolor = ["E48C15", "DBA689", "C48E6A", "99674F", "7A4C32", "563E37"];
+    othercolor = ["E59600", "DBA689", "C48E6A", "99674F", "7A4C32", "563E37"];
 
 const skincolorvaluesw = ["-test", "", "-1F3FB", "-1F3FC", "-1F3FD", "-1F3FE", "-1F3FF"],
     skincolorw = ["FFFF00", "FCC21B", "FADCBC", "E0BB95", "CC9970", "AD6F43", "8E726A"],
     handcolorw = ["FFCC00", "FAC036", "FADCBC", "E0BB95", "CC9970", "AD6F43", "8E726A"],
-    hand2colorw = ["00CCFF", "E39E49", "DBA689", "C48E6A", "99674F", "7A4C32", "563E37"],
+    hand2colorw = ["FF00FF", "E48C15", "DBA689", "C48E6A", "99674F", "7A4C32", "563E37"],
     haircolorw = ["FF0000", "FFA000", "312D2D", "BFA055", "6D4C41", "47352D", "232020"],
     neckcolorw = ["00FF00", "E59900", "DBA689", "C48E6A", "99674F", "7A4C32", "563E37"],
-    othercolorw = ["0000FF", "E59600", "DBA689", "C48E6A", "99674F", "7A4C32", "563E37"],
-    nosecolorw = ["FF00FF", "E48C15", "DBA689", "C48E6A", "99674F", "7A4C32", "563E37"];
+    othercolorw = ["0000FF", "E59600", "DBA689", "C48E6A", "99674F", "7A4C32", "563E37"];
 
 const srcfolders = fs.readdirSync("src");
 srcfolders.forEach((name) => {
@@ -78,14 +76,12 @@ xfiles.forEach(function (item) {
         allhand2 = new RegExp (hand2color[0], "gi"),
         allhair = new RegExp (haircolor[0], "gi"),
         allneck = new RegExp (neckcolor[0], "gi"),
-        allnose = new RegExp (nosecolor[0], "gi"),
         allother = new RegExp (othercolor[0], "gi"),
         newfile = newfile.replace(allskin, skincolor[i]),
         newfile = newfile.replace(allhand, handcolor[i]),
         newfile = newfile.replace(allhand2, hand2color[i]),
         newfile = newfile.replace(allhair, haircolor[i]),
         newfile = newfile.replace(allneck, neckcolor[i]),
-        newfile = newfile.replace(allnose, nosecolor[i]),
         newfile = newfile.replace(allother, othercolor[i]);
     fs.writeFileSync(`svg/${newname}`, newfile);
   };
@@ -104,14 +100,12 @@ wfiles.forEach(function (item) {
         allhand2w = new RegExp (hand2colorw[0], "gi"),
         allhairw = new RegExp (haircolorw[0], "gi"),
         allneckw = new RegExp (neckcolorw[0], "gi"),
-        allnosew = new RegExp (nosecolorw[0], "gi"),
         allotherw = new RegExp (othercolorw[0], "gi"),
         newfilew = newfilew.replace(allskinw, skincolorw[i]),
         newfilew.replace(allhandw, handcolorw[i]),
         newfilew = newfilew.replace(allhand2w, hand2colorw[i]),
         newfilew = newfilew.replace(allhairw, haircolorw[i]),
         newfilew = newfilew.replace(allneckw, neckcolorw[i]),
-        newfilew = newfilew.replace(allnosew, nosecolorw[i]),
         newfilew = newfilew.replace(allotherw, othercolorw[i]);
     fs.writeFileSync(`svg/${newnamew}`, newfilew);
   };

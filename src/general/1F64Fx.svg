@@ -2,23 +2,22 @@
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="72px" height="72px" viewBox="0 0 72 72">
 <defs>
 <g id="Layer0_0_MEMBER_0_FILL">
-<path fill="#E39E49" stroke="none" d="
-M 66 5
-L 64.7 6.3
-Q 64.4 6.6 64 6.6 63.55 6.6 63.25 6.3
-L 62 5 62 98 64 96 66 98 66 5 Z"/>
+<path fill="#E48C15" stroke="none" d="
+M 35.6 3.55
+L 34.85 2.8 34.85 55.1 36 54 37.1 55.1 37.1 2.8 36.4 3.55
+Q 36.2 3.7 36 3.7 35.75 3.7 35.6 3.55 Z"/>
 </g>
 
 <g id="Layer0_0_MEMBER_1_FILL">
 <path fill="#FCC21B" stroke="none" d="
-M 81.55 90.85
-Q 88.35 76.65 87.3 71.8 86.55 68.25 82.95 54.45 80.9 46.45 80.2 37.8
+M 87.3 71.8
+Q 86.55 68.25 82.95 54.45 80.9 46.45 80.2 37.8
 L 77.25 4.9
 Q 76.95 3.5 76.15 2.6
 L 75.8 2.15
 Q 74.1 -0.05 71.3 0.05 68.5 0.15 66.9 2.45 66 3.75 66 5.7
 L 66 45.3
-Q 68.85 87.6 68.8 92.75 68.7 101.7 71.6 103.8 73.1 104.8 74.55 104.05 78.15 97.95 81.55 90.85 Z"/>
+Q 68.85 87.6 68.8 92.75 68.7 101.7 71.6 103.8 73.1 104.8 74.55 104.05 78.15 97.95 81.55 90.85 88.35 76.65 87.3 71.8 Z"/>
 </g>
 
 <g id="Layer0_0_MEMBER_2_FILL">
@@ -87,8 +86,8 @@ L 40.4 74.4 35.05 82.25 Z"/>
 
 <g id="Layer0_0_MEMBER_8_FILL">
 <path fill="#00ACC1" stroke="none" d="
-M 72 72
-L 72 61.1 59.85 51.1 45.25 66.75 49.85 72 72 72 Z"/>
+M 72 61.1
+L 59.85 51.1 45.25 66.75 49.85 72 72 72 72 61.1 Z"/>
 </g>
 
 <g id="Layer0_0_MEMBER_9_FILL">
@@ -108,7 +107,7 @@ Q 71.85 10.55 68 12.2 64 13.95 64 20 Z"/>
 </g>
 
 <g id="Layer0_0_MEMBER_10_MEMBER_1_FILL">
-<path fill="#E39E49" stroke="none" d="
+<path fill="#E48C15" stroke="none" d="
 M 72.75 12.25
 Q 72.7 12.2 71.55 11.55 70.45 11.2 70.05 11.15 69.75 11.1 69.2 11.1
 L 68.3 11.2
@@ -136,7 +135,7 @@ Q 63.1 2.85 58.15 1.15 53.3 -0.55 51.35 3.2 Z"/>
 </g>
 
 <g id="Layer0_0_MEMBER_11_MEMBER_1_FILL">
-<path fill="#E39E49" stroke="none" d="
+<path fill="#E48C15" stroke="none" d="
 M 65.3 5.95
 L 64.65 4.75 63.75 3.5
 Q 62.65 2.4 62.5 2.3
@@ -166,7 +165,7 @@ Q 74.6 -0.55 69.75 1.15 64.75 2.85 63.85 8.1 Z"/>
 </g>
 
 <g id="Layer0_0_MEMBER_12_MEMBER_1_FILL">
-<path fill="#E39E49" stroke="none" d="
+<path fill="#E48C15" stroke="none" d="
 M 76.5 3.2
 L 76.15 2.55
 Q 76.1 2.3 75.65 1.85 75.5 1.65 74.8 1.05
@@ -199,7 +198,7 @@ Q 64 13.8 59.9 12.15 55.9 10.5 53.4 14.5 Z"/>
 </g>
 
 <g id="Layer0_0_MEMBER_13_MEMBER_1_FILL">
-<path fill="#E39E49" stroke="none" d="
+<path fill="#E48C15" stroke="none" d="
 M 64.8 15.65
 Q 64.75 15.4 64 14.2
 L 63.4 13.5
@@ -222,8 +221,8 @@ Q 65 16.15 64.8 15.65 Z"/>
 
 <g id="Layer0_0_MEMBER_14_FILL">
 <path fill="#00ACC1" stroke="none" d="
-M 0 61.1
-L 0 72 22.7 72 27.15 66.75 12.45 51.1 0 61.1 Z"/>
+M 12.45 51.1
+L 0 61.1 0 72 22.7 72 27.15 66.75 12.45 51.1 Z"/>
 </g>
 
 <g id="Layer0_0_MEMBER_15_MEMBER_0_FILL">
@@ -234,7 +233,7 @@ Q 64 32.25 59.3 30.95 54.7 29.7 52.7 34.9 Z"/>
 </g>
 
 <g id="Layer0_0_MEMBER_15_MEMBER_1_FILL">
-<path fill="#E39E49" stroke="none" d="
+<path fill="#E48C15" stroke="none" d="
 M 60.45 30.3
 L 59.45 30.05 58.4 30 57.45 30.1 56.55 30.35
 Q 56.35 30.4 55.75 30.75 55.4 30.9 55.05 31.2
@@ -264,7 +263,7 @@ Q 74.75 32.95 72.8 31.65 71 30.45 68.95 30.9 64 31.95 64 39 Z"/>
 </g>
 
 <g id="Layer0_0_MEMBER_16_MEMBER_1_FILL">
-<path fill="#E39E49" stroke="none" d="
+<path fill="#E48C15" stroke="none" d="
 M 72 30.55
 L 71.1 30.15 70.1 29.95
 Q 68.9 29.85 68 30.15 67.65 30.2 66.95 30.5
@@ -296,7 +295,7 @@ L 51.85 106.1 53.7 106.3 Z"/>
 </g>
 
 <g id="Layer0_0_MEMBER_17_MEMBER_1_FILL">
-<path fill="#E39E49" stroke="none" d="
+<path fill="#E48C15" stroke="none" d="
 M 65.9 95
 L 65.95 94.6
 Q 65.9 93.75 65.3 93.2 64.65 92.6 63.85 92.65 63 92.7 62.45 93.3 61.85 93.9 61.9 94.75
@@ -320,9 +319,8 @@ Q 64.25 103.7 70.25 105.8 Z"/>
 </g>
 
 <g id="Layer0_0_MEMBER_18_MEMBER_1_FILL">
-<path fill="#E39E49" stroke="none" d="
-M 65.95 96.6
-L 66 94.35
+<path fill="#E48C15" stroke="none" d="
+M 66 94.35
 Q 65.85 93.55 65.15 93.1 64.45 92.6 63.65 92.75 62.85 92.9 62.35 93.6 61.9 94.25 62 95.1
 L 62.35 97
 Q 62.65 98.15 62.7 98.3
@@ -332,12 +330,11 @@ L 74.4 106.5 76.15 106.1 73.15 106 71.8 105.7 70.35 105.1
 Q 69.3 104.55 69 104.25 68.55 103.95 67.85 103.15
 L 67 101.85
 Q 66.5 100.55 66.45 100.4
-L 66.1 99 65.95 96.6 Z"/>
+L 66.1 99 66 94.35 Z"/>
 </g>
 </defs>
 
-<g id="Layer_1">
-<g transform="matrix( 0.5624847412109375, 0, 0, 0.5624847412109375, 0,0) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
 <use xlink:href="#Layer0_0_MEMBER_0_FILL"/>
 </g>
 
@@ -377,35 +374,35 @@ L 66.1 99 65.95 96.6 Z"/>
 <use xlink:href="#Layer0_0_MEMBER_9_FILL"/>
 </g>
 
-<g transform="matrix( 0.562469482421875, 0, 0, 0.562469482421875, 0,0) ">
+<g transform="matrix( 0.5624542236328125, 0, 0, 0.5624542236328125, 0,0) ">
 <use xlink:href="#Layer0_0_MEMBER_10_MEMBER_0_FILL"/>
 </g>
 
-<g transform="matrix( 0.562469482421875, 0, 0, 0.562469482421875, 0,0) ">
+<g transform="matrix( 0.5624542236328125, 0, 0, 0.5624542236328125, 0,0) ">
 <use xlink:href="#Layer0_0_MEMBER_10_MEMBER_1_FILL"/>
 </g>
 
-<g transform="matrix( 0.562469482421875, 0, 0, 0.562469482421875, 0,0) ">
+<g transform="matrix( 0.5624542236328125, 0, 0, 0.5624542236328125, 0,0) ">
 <use xlink:href="#Layer0_0_MEMBER_11_MEMBER_0_FILL"/>
 </g>
 
-<g transform="matrix( 0.562469482421875, 0, 0, 0.562469482421875, 0,0) ">
+<g transform="matrix( 0.5624542236328125, 0, 0, 0.5624542236328125, 0,0) ">
 <use xlink:href="#Layer0_0_MEMBER_11_MEMBER_1_FILL"/>
 </g>
 
-<g transform="matrix( 0.562469482421875, 0, 0, 0.562469482421875, 0,0) ">
+<g transform="matrix( 0.5624542236328125, 0, 0, 0.5624542236328125, 0,0) ">
 <use xlink:href="#Layer0_0_MEMBER_12_MEMBER_0_FILL"/>
 </g>
 
-<g transform="matrix( 0.562469482421875, 0, 0, 0.562469482421875, 0,0) ">
+<g transform="matrix( 0.5624542236328125, 0, 0, 0.5624542236328125, 0,0) ">
 <use xlink:href="#Layer0_0_MEMBER_12_MEMBER_1_FILL"/>
 </g>
 
-<g transform="matrix( 0.562469482421875, 0, 0, 0.562469482421875, 0,0) ">
+<g transform="matrix( 0.5624542236328125, 0, 0, 0.5624542236328125, 0,0) ">
 <use xlink:href="#Layer0_0_MEMBER_13_MEMBER_0_FILL"/>
 </g>
 
-<g transform="matrix( 0.562469482421875, 0, 0, 0.562469482421875, 0,0) ">
+<g transform="matrix( 0.5624542236328125, 0, 0, 0.5624542236328125, 0,0) ">
 <use xlink:href="#Layer0_0_MEMBER_13_MEMBER_1_FILL"/>
 </g>
 
@@ -413,36 +410,35 @@ L 66.1 99 65.95 96.6 Z"/>
 <use xlink:href="#Layer0_0_MEMBER_14_FILL"/>
 </g>
 
-<g transform="matrix( 0.562469482421875, 0, 0, 0.562469482421875, 0,0) ">
+<g transform="matrix( 0.5624542236328125, 0, 0, 0.5624542236328125, 0,0) ">
 <use xlink:href="#Layer0_0_MEMBER_15_MEMBER_0_FILL"/>
 </g>
 
-<g transform="matrix( 0.562469482421875, 0, 0, 0.562469482421875, 0,0) ">
+<g transform="matrix( 0.5624542236328125, 0, 0, 0.5624542236328125, 0,0) ">
 <use xlink:href="#Layer0_0_MEMBER_15_MEMBER_1_FILL"/>
 </g>
 
-<g transform="matrix( 0.562469482421875, 0, 0, 0.562469482421875, 0,0) ">
+<g transform="matrix( 0.5624542236328125, 0, 0, 0.5624542236328125, 0,0) ">
 <use xlink:href="#Layer0_0_MEMBER_16_MEMBER_0_FILL"/>
 </g>
 
-<g transform="matrix( 0.562469482421875, 0, 0, 0.562469482421875, 0,0) ">
+<g transform="matrix( 0.5624542236328125, 0, 0, 0.5624542236328125, 0,0) ">
 <use xlink:href="#Layer0_0_MEMBER_16_MEMBER_1_FILL"/>
 </g>
 
-<g transform="matrix( 0.562469482421875, 0, 0, 0.562469482421875, 0,0) ">
+<g transform="matrix( 0.5624542236328125, 0, 0, 0.5624542236328125, 0,0) ">
 <use xlink:href="#Layer0_0_MEMBER_17_MEMBER_0_FILL"/>
 </g>
 
-<g transform="matrix( 0.562469482421875, 0, 0, 0.562469482421875, 0,0) ">
+<g transform="matrix( 0.5624542236328125, 0, 0, 0.5624542236328125, 0,0) ">
 <use xlink:href="#Layer0_0_MEMBER_17_MEMBER_1_FILL"/>
 </g>
 
-<g transform="matrix( 0.562469482421875, 0, 0, 0.562469482421875, 0,0) ">
+<g transform="matrix( 0.5624542236328125, 0, 0, 0.5624542236328125, 0,0) ">
 <use xlink:href="#Layer0_0_MEMBER_18_MEMBER_0_FILL"/>
 </g>
 
-<g transform="matrix( 0.562469482421875, 0, 0, 0.562469482421875, 0,0) ">
+<g transform="matrix( 0.5624542236328125, 0, 0, 0.5624542236328125, 0,0) ">
 <use xlink:href="#Layer0_0_MEMBER_18_MEMBER_1_FILL"/>
-</g>
 </g>
 </svg>
