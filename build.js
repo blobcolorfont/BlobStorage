@@ -35,6 +35,7 @@ const svgoInstance = new svgo({
     {mergePaths: true},
     {convertShapeToPath: true},
     {sortAttrs: true},
+    {sortDefsChildren: true},
     {removeDimensions: true}
   ]
 });

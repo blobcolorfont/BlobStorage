@@ -5,7 +5,7 @@
   "main": "build.js",
   "dependencies": {
     "sharp": "^0.23.1",
-    "svgo": "^1.2.2"
+    "svgo": "^1.3.0"
   },
   "devDependencies": {},
   "scripts": {
