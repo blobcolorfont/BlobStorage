@@ -1,1 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" viewBox="0 0 72 72"><defs><path id="a" fill="#9B643C" d="M10 10v108h108V10H10z"/></defs><use transform="scale(.5625)" xlink:href="#a"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" viewBox="0 0 72 72"><defs><path fill="#9B643C" d="M10 10v108h108V10H10z" id="a"/></defs><use xlink:href="#a" transform="scale(.5625)"/></svg>
