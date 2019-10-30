@@ -14,7 +14,9 @@ This means that this emoji set should be like what other emoji sets show as clos
 ## Emoji Sources
 When making an emoji, first, you must know how the other emoji sets did it, [Emojipedia](https://emojipedia.org) can be used to compare the best way to represent the emoji, the most popular ones should be the ones to be compared, you can ignore the bottom ones, they are usually the oldest ones.
 
-When comparing, you should never pick a single emoji set as the base, for example, if Apple suddently changes their emoji, do not immediately change to it, only change when absolutely sure that all the major emoji sets moved to it, then it's safe to change to it, and you should never directly use other emoji set assets, pre-nougat Google emoji are an expection, but adaptation is necessary.
+When comparing, you should never pick a single emoji set as the base, so if a single major vendor suddently changes their emoji to be way different than the others, do not immediately change to it, only change when absolutely sure that all the major emoji sets moved to it, then it's safe to change to it, and you should never directly use other emoji set assets, pre-nougat Google emoji are an expection, but adaptation is necessary to be consistent with our emoji.
+
+When a new version of the Emoji specification releases, new emojis should be already made when the way to do them is clear, but they should be watched sometimes for possible changes (like the [Zany Face](https://emojipedia.org/grinning-face-with-one-large-and-one-small-eye/), which got changed heavily since its addition).
 
 Failure to compare other emoji sets or just comparing one while making an emoji might not matter, but it can lead to cases like [this](https://emojipedia.org/google/android-4.4/yellow-heart/), which violates the principle of making an emoji set that anyone can use without being confused because of drastic differences.
 
@@ -34,7 +36,7 @@ These are the definitive colors for people:
 - `#513F35` - Mouth color (with exception of Bearded Man)
 - `#FFA000` - Generic hair color
 - `#E59900` - Generic neck color
-- `#E59600` - Generic nose and ear color
+- `#E59600` - Generic nose and ear color (To be merged)
 - `#E48C15` - Secondary nose color (To be replaced)
 - `#00ACC1` - Male shirt
 - `#7E57C2` - Female shirt
