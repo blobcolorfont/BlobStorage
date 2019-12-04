@@ -7,17 +7,17 @@ The emoji are either based on or directly from the [Noto Color Emoji](https://gi
 
 All the output files were generated and can be used without having to build anything.
 
-If you wish to contribute, you can make your own emoji by following the [guidelines](./GUIDELINES.md) then placing it on the adequade folder in /src/, then building it and then making a pull request.
+If you wish to contribute, you can make your own emoji by following the [guidelines](./GUIDELINES.md) then place it on the adequate folder in /src/, after that, build it and make a pull request.
 
 ## Usage
 The BlobStorage is being used in the [BlobCompiler](https://github.com/blobcolorfont/BlobCompiler/) project, where it will build a SVGinOT font with all the emojis here.
 
 Our emojis can be used outside the font project as long as you credit us.
 
-## Building /svg/ and /png/
-To build the SVG along with the skin-colored variants, you need [Node.js](https://nodejs.org/en/) installed, the packages (svgo and sharp) are necessary to optimize and export the SVGs, which can be done by executing ``npm install``.
+## Building the /output/ folder.
+To build the SVG along with the skin-colored variants, you need [Node.js](https://nodejs.org/en/) installed, some packages are necessary to be able to build the SVGs and PNGs, which can be installed by executing ``yarn install``.
 
-After they are installed, execute ``npm run build`` and the /svg/ and /png/ folder will be built from all the folders in /src/.
+After they are installed, execute ``yarn run build`` and the entire /output/ folder will be built from all the SVGs in /src/.
 
 ## License
 All the image resources released under this repository are licensed under the [Apache license, version 2.0](./LICENSE).
