@@ -1,3 +1,13 @@
+# This project has been abandoned
+
+It has been years since nothing new has been commited to this repository other than dependabot stuff. Ultimately, this project has been abandoned and will be archived along with BlobCompiler.
+
+While it was feasible to at least make emojis for a good part of the Unicode emojis, mass-producing them became an issue for me since more emojis mean more maintenance to do, and with the fear that not all the emoji was consistent with each other (with the floating-point inaccuracy that my software has) and with some doubts about my own programming, I've decided to stop making them in favor of working on other projects.
+
+What you see on this repository is work that has been started in 2018 which has been halted past year, while the quality might not be ideal in few spots, all of the work has been carefully done in order to match with other vendor sets, which means that you can mix them with a more complete set (like Twitter's). However, I don't recommend that.
+
+If you wish to continue this project, feel free to! Just don't violate the license and you're fine, although it won't be an easy job at all.
+
 # BlobStorage
 ![BlobStorage's banner](banner.png)
 
